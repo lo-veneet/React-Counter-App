@@ -1,0 +1,26 @@
+
+h1, p, .buttons{
+    text-align: center;
+}
+
+.btn1{
+    color: brown;
+}
+.btn2{
+    color:darkred;
+}
+.btn3{
+    color:darkgreen;
+}
+
+
+.counter-sec{
+height: 100vh;
+background: blue;
+}
+.counter{
+    background: skyblue;
+    min-width: 350px;
+    padding: 6rem;
+}
+
